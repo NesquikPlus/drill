@@ -1,0 +1,15 @@
+Warning: you requested the nanomsg event logger, but bmv2 was compiled without -DBMELOG, and the event logger cannot be activated
+You disabled logging macros when building this binary; however, the log level is currenty set to include 'debug' and possibly 'trace' messages; therefore the logs will be missing most messages
+Calling target program-options parser
+Adding interface s1-eth1 as port 1
+Adding interface s1-eth2 as port 2
+Adding interface s1-eth3 as port 3
+Adding interface s1-eth4 as port 4
+Adding interface s1-eth5 as port 5
+Adding interface s1-cpu-eth0 as port 6
+[23:13:51.914] [bmv2] [I] [thread 6055] Starting Thrift server on port 9090
+[23:13:51.914] [bmv2] [I] [thread 6055] Thrift server was started
+open: No such file or directory
+open: No such file or directory
+open: No such file or directory
+open: No such file or directory
